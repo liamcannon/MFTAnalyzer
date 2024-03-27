@@ -1,4 +1,4 @@
-# MFTAnalyzer
+# MFTAnalyzer ![Build](https://github.com/liamcannon/MFTAnalyzer/actions/workflows/dotnet.yml/badge.svg)
 ```
 > MFTAnalyzer.exe
 
